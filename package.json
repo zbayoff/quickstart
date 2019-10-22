@@ -1,0 +1,11 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server -D -d ./dist  --navigateToChanged --noHTTPCache --ignoreCache --disableFastRender"
+  },
+  "author": "",
+  "license": "ISC"
+}
